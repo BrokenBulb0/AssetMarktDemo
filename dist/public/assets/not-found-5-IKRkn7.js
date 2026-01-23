@@ -1,0 +1,11 @@
+import{c as r,j as e,C as a,L as s,B as t}from"./index-7wra0SMx.js";import{T as l}from"./ThreeSceneBackground-co9Vipc8.js";import{C as o}from"./circle-alert-BTHRO1_2.js";import"./three.module-DLIhOm9l.js";/**
+ * @license lucide-react v0.453.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const n=r("ArrowLeft",[["path",{d:"m12 19-7-7 7-7",key:"1l729n"}],["path",{d:"M19 12H5",key:"x3x0zl"}]]);/**
+ * @license lucide-react v0.453.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const c=r("House",[["path",{d:"M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8",key:"5wwlr5"}],["path",{d:"M3 10a2 2 0 0 1 .709-1.528l7-5.999a2 2 0 0 1 2.582 0l7 5.999A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z",key:"1d0kgt"}]]);function u(){return e.jsxs("div",{className:"min-h-screen w-full flex items-center justify-center relative overflow-hidden",children:[e.jsx(l,{variant:"cart"}),e.jsxs(a,{className:"w-full max-w-lg mx-4 p-12 text-center relative z-10 backdrop-blur-xl bg-background/80 border-border/50",children:[e.jsx("div",{className:"flex justify-center mb-6",children:e.jsx("div",{className:"p-6 bg-destructive/10 rounded-full",children:e.jsx(o,{className:"h-16 w-16 text-destructive"})})}),e.jsx("h1",{className:"text-6xl font-bold mb-4 bg-gradient-to-r from-destructive to-primary bg-clip-text text-transparent",children:"404"}),e.jsx("h2",{className:"text-2xl font-semibold mb-3",children:"Page Not Found"}),e.jsx("p",{className:"text-muted-foreground mb-8 leading-relaxed",children:"The asset you're looking for doesn't exist or has been moved. Let's get you back on track."}),e.jsxs("div",{className:"flex flex-col sm:flex-row gap-3 justify-center",children:[e.jsx(s,{href:"/",children:e.jsxs(t,{size:"lg",className:"w-full sm:w-auto","data-testid":"button-home",children:[e.jsx(c,{className:"h-5 w-5 mr-2"}),"Go Home"]})}),e.jsx(s,{href:"/browse",children:e.jsxs(t,{size:"lg",variant:"outline",className:"w-full sm:w-auto","data-testid":"button-browse",children:[e.jsx(n,{className:"h-5 w-5 mr-2"}),"Browse Assets"]})})]})]})]})}export{u as default};
